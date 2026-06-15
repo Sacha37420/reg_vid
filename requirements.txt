@@ -1,0 +1,7 @@
+mss>=6.1.0
+opencv-python>=4.9.0
+numpy>=1.24.0
+pynput>=1.7.6
+pyaudiowpatch>=0.2.12
+pywin32>=306
+imageio-ffmpeg>=0.4.9
